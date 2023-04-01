@@ -2,7 +2,7 @@
 Some silly scripts for silly people
 
 ## Web
-[!] Domain Enumeration
-[!] Subdomain Enumeration
+- Domain Enumeration
+- Subdomain Enumeration
 
 ## Binary Exploitation
