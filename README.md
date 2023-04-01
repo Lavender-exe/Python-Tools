@@ -14,7 +14,7 @@ Some silly scripts for silly people
 - 
 
 ## Brute Force
--[SSH Brute Force](Bruteforce/ssh_brute.py)
+- [SSH Brute Force](Bruteforce/ssh_brute.py)
 -
 
 ## Cryptography
