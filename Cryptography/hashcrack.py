@@ -3,7 +3,7 @@
 import hashlib
 import pyfiglet
 
-print("=========== Hash Decoder ============")
+print("=========== Hash Cracker ============")
 
 wordlist_location = str(input('[+] Enter wordlist file location: '))
 hash_input = str(input('[+] Enter hash to be cracked: '))
